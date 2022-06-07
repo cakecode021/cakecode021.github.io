@@ -2,7 +2,8 @@
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# Today's GITHUB Activity
+
 ## Header 2
 ### Header 3
 
